@@ -1,58 +1,53 @@
 # Tic Tac Toe Game
 
-A simple and elegant Tic Tac Toe game built with Flutter.
+A feature-rich, modern Tic Tac Toe game built with Flutter.
 
 ## Features
 
-- Clean and modern UI
-- Turn-based gameplay
-- Win detection
-- Draw detection
-- Game reset functionality
+- **Scoreboard**: Tracks wins for each player and draws
+- **Player Names & Emoji Avatars**: Custom names and fun emoji avatars for each player
+- **Sound Effects**: Sounds for moves, wins, and draws
+- **Confetti Celebration**: Confetti animation when a player wins
+- **Theme Switcher**: Toggle between light and dark mode
+- **AI Opponent**: Play against a simple AI or with a friend
+- **Undo Move**: Undo the last move
+- **Animated Transitions**: Smooth animations for moves and messages
+- **Custom Board Size**: Choose between 3x3, 4x4, or 5x5 boards
 
 ## Getting Started
 
-1. Make sure you have Flutter installed on your system. If not, follow the [official Flutter installation guide](https://flutter.dev/docs/get-started/install).
-
+1. Make sure you have Flutter installed. [Flutter installation guide](https://flutter.dev/docs/get-started/install)
 2. Clone this repository:
-```bash
-git clone <repository-url>
-cd tic_tac_toe
-```
-
+   ```bash
+   git clone https://github.com/YASHKALKANI/tic-tac-toe-app.git
+   cd tic-tac-toe-app
+   ```
 3. Install dependencies:
-```bash
-flutter pub get
-```
-
+   ```bash
+   flutter pub get
+   ```
 4. Run the game:
-```bash
-flutter run
-```
+   ```bash
+   flutter run
+   ```
 
 ## How to Play
-
-1. The game starts with Player X
-2. Players take turns placing their marks (X or O) on the board
-3. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins
-4. If all squares are filled and no player has won, the game is a draw
-5. Click the "Reset Game" button to start a new game
-
-## Requirements
-
-- Flutter SDK (>=3.0.0)
-- Dart SDK (>=3.0.0)
+- Enter player names and pick your emoji avatars.
+- Choose board size and theme (light/dark).
+- Play against a friend or the AI.
+- The first to get N in a row (horizontally, vertically, or diagonally) wins!
+- Use Undo to revert the last move.
+- Enjoy sound effects and confetti on victory!
 
 ## Deployment
 
-Your app has been successfully deployed!
+The app is deployed on Firebase Hosting:
+**[Play Online](https://tic-tac-toe-app-new.web.app)**
 
-You can now open your Tic Tac Toe app on any device (including your mobile phone) using this URL:
-```
-https://tic-tac-toe-app-new.web.app
-```
+You can open this link on your mobile or desktop browser.
 
-Just enter this URL in your mobile browser and your app will load.  
-If you want, you can also add it to your home screen for a native app-like experience.
+## Screenshots
+(Add your own screenshots here for a more attractive README)
 
-Let me know if you need help with anything else! 
+## License
+MIT 
