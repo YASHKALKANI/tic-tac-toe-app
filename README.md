@@ -41,4 +41,18 @@ flutter run
 ## Requirements
 
 - Flutter SDK (>=3.0.0)
-- Dart SDK (>=3.0.0) 
+- Dart SDK (>=3.0.0)
+
+## Deployment
+
+Your app has been successfully deployed!
+
+You can now open your Tic Tac Toe app on any device (including your mobile phone) using this URL:
+```
+https://tic-tac-toe-app-new.web.app
+```
+
+Just enter this URL in your mobile browser and your app will load.  
+If you want, you can also add it to your home screen for a native app-like experience.
+
+Let me know if you need help with anything else! 
